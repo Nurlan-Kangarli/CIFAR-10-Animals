@@ -7,7 +7,7 @@ A deep learning project that classifies animals from the CIFAR-10 dataset using 
 **Seed:** 20240303
 
 ## Presentation
-[View Presentation Slides](https://drive.google.com/your-link-here)
+[View Presentation Slides](https://docs.google.com/presentation/d/1mGRNt49waD_L3NI42AMmFFMJzKG5dFY5/edit?usp=drive_link&ouid=113733731367230239482&rtpof=true&sd=true)
 
 ## Dataset
 - **Name:** CIFAR-10 filtered to 4 animal classes
@@ -78,8 +78,4 @@ OUTPUT: 4 classes
 
 3. Reproducibility: I realized the importance of using fixed random seeds (20240303) for reproducible results in scientific research, ensuring that experiments can be replicated and verified.
 ## Files
-- `notebook.ipynb`: Complete implementation with both training runs
-- `results/training_comparison.png`: Comparison of Version 1 vs Version 2
-- `results/confusion_matrix.png`: Confusion matrix from best model
-- `results/predictions.png`: Sample predictions
-- https://github.com/user-attachments/files/24305400/file.ipynb
+- `notebook.ipynb`: https://github.com/user-attachments/files/24305400/file.ipynb
